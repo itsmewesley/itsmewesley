@@ -1,5 +1,5 @@
-Whats up
-Forever learning
+Whats up |
+Forever learning |
 To fail is to take a step towards success
 
 <!---
